@@ -1,5 +1,9 @@
 # {Venture Name}
 
+> **DEPRECATED**: This template has been merged into [crane-console](https://github.com/venturecrane/crane-console).
+> Template now lives at `crane-console/templates/venture/`.
+> This repo will be archived after 2026-02-18.
+
 {Brief description}
 
 ## Quick Start
